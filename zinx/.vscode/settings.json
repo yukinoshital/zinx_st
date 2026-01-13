@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.suggest.quickSuggestions": {
+        "commands": "on",
+        "arguments": "on",
+        "unknown": "off"
+    },
+    "editor.fontFamily": "'Menlo','JetBrains Mono',Consolas, 'Courier New', monospace"
+}
